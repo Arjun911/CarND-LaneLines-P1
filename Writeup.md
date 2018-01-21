@@ -1,7 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-This is the first Self-Driving Nanodegree (SDCND) Project, finding lane lines in a video. It is build on the [starter code provided by Udacity](https://github.com/udacity/CarND-LaneLines-P1). 
-My solution can be found in my [Jupyter Notebook]().
 
 
 ### 1. Pipeline for finding lane lines on the road
